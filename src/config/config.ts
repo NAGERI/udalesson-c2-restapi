@@ -10,7 +10,7 @@ export const config = {
     aws_media_bucket: process.env.AWS_MEDIA_BUCKET, //"my098925010127bucket",
   },
   jwt: {
-    secret: " ",
+    secret: "NzyJt8EbHMD9kgaUFIuSNA==",
   },
   prod: {
     username: process.env.POSTGRES_USERNAME_PROD,
